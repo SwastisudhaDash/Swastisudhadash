@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/swastisudhadash" target="blank"><img src="https://img.shields.io/twitter/follow/swastisudhadash?logo=twitter&style=for-the-badge" alt="swastisudhadash" /></a> </p>
 
-- 🌱 I’m currently learning **React ,Django**
+- 🌱 I’m currently learning **React, Django**
 
 - 👨‍💻 All of my projects are available at [https://swastisudhadash.github.io/My-Portfolio/](https://swastisudhadash.github.io/My-Portfolio/)
 
